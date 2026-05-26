@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/ParisaGhorbani">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=7C3AED&center=true&vCenter=true&width=820&lines=Bridging+Medical+AI+Research+%26+Enterprise+FinTech;Head+of+AI+in+Medical+Imaging+%40+ARAS+Lab+%7C+Middleware+Mgr+%40+Novin;Computer+Vision+%E2%80%A2+Enterprise+Infrastructure+%E2%80%A2+Surgical+AI;Empowering+Healthcare+%26+Finance+with+Scalable+Systems" alt="typing" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=900&color=7C3AED&center=true&vCenter=true&width=950&lines=Bridging+Medical+AI+Research+%26+Enterprise+FinTech;Head+of+AI+in+Medical+Imaging+%40+ARAS+Lab+%7C+Middleware+Mgr+%40+Novin;Computer+Vision+%E2%80%A2+Enterprise+Infrastructure+%E2%80%A2+Surgical+AI;Empowering+Healthcare+%26+Finance+with+Scalable+Systems" alt="typing" />
   </a>
 </p>
 
