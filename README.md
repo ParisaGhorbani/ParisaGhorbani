@@ -42,7 +42,7 @@
 class ParisaGhorbani:
     def __init__(self):
         self.name        = "Parisa Ghorbani"
-        self.roles       = ["Head of AI @ ARAS Lab", "Middleware Manager @ Novin Hi-Tech Solutions"]
+        self.roles       = ["Head of AI Medical Imaging @ ARAS Lab", "Middleware Manager @ Novin Hi-Tech Solutions"]
         self.education   = "M.Sc. Electrical and Control Engineering, KNTU (GPA: 3.8/4)"
         self.experience  = "6+ years bridging MedTech AI and enterprise FinTech ops"
         self.domains     = ["Medical Imaging AI", "FinTech Observability", "Robotics"]
