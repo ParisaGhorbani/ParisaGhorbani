@@ -1,10 +1,10 @@
 <a href="https://github.com/ParisaGhorbani">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4C1D95,50:7C3AED,100:A78BFA&height=220&section=header&text=Parisa%20Ghorbani&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Head%20of%20AI%20Medical Imaging%20%E2%80%A2%20Middleware%20Manager%20%E2%80%A2%20Control%20Engineer&descSize=18&descAlignY=60&animation=fadeIn" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4C1D95,50:7C3AED,100:A78BFA&height=220&section=header&text=Parisa%20Ghorbani&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Head%20of%20AI%20in%20Medical%20Imaging%20%E2%80%A2%20Middleware%20Manager%20%E2%80%A2%20Control%20Engineer&descSize=18&descAlignY=60&animation=fadeIn" alt="header" />
 </a>
 
 <p align="center">
   <a href="https://github.com/ParisaGhorbani">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=7C3AED&center=true&vCenter=true&width=820&lines=Bridging+Medical+AI+Research+%26+Enterprise+FinTech;Head+of+AI+%40+ARAS+Lab+%7C+Middleware+Mgr+%40+Novin;Computer+Vision+%E2%80%A2+Surgical+AI;Empowering+Healthcare+%26+Finance+with+Scalable+Systems" alt="typing" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=7C3AED&center=true&vCenter=true&width=820&lines=Bridging+Medical+AI+Research+%26+Enterprise+FinTech;Head+of+AI+in+Medical+Imaging+%40+ARAS+Lab+%7C+Middleware+Mgr+%40+Novin;Computer+Vision+%E2%80%A2+Enterprise+Infrastructure+%E2%80%A2+Surgical+AI;Empowering+Healthcare+%26+Finance+with+Scalable+Systems" alt="typing" />
   </a>
 </p>
 
@@ -42,12 +42,12 @@
 class ParisaGhorbani:
     def __init__(self):
         self.name        = "Parisa Ghorbani"
-        self.roles       = ["Head of AI Medical Imaging @ ARAS Lab", "Middleware Manager @ Novin Hi-Tech Solutions"]
+        self.roles       = ["Head of AI in Medical Imaging @ ARAS Lab", "Middleware Manager @ Novin Hi-Tech Solutions"]
         self.education   = "M.Sc. Electrical and Control Engineering, KNTU (GPA: 3.8/4)"
         self.experience  = "6+ years bridging MedTech AI and enterprise FinTech ops"
-        self.domains     = ["Medical Imaging AI", "FinTech Observability", "Robotics"]
-        self.focus       = ["Computer Vision", "ELK Stack", "Multi-Modal Learning"]
-        self.recognition = "Top 0.1% in National Exam · INS & TUMS Grant Awardee"
+        self.domains     = ["Medical Imaging AI", "FinTech Infrastructure", "Robotics"]
+        self.focus       = ["Computer Vision", "Middleware Architecture", "Multi-Modal Learning"]
+        self.recognition = "Top 0.1% in National Exam · INSF & TUMS Grant Awardee"
 
     def current_mission(self):
         return "Translating complex clinical data into AI tools and scaling reliable financial middleware."
