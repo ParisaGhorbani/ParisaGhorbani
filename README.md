@@ -1,10 +1,10 @@
 <a href="https://github.com/ParisaGhorbani">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4C1D95,50:7C3AED,100:A78BFA&height=220&section=header&text=Parisa%20Ghorbani&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Head%20of%20AI%20%E2%80%A2%20Middleware%20Manager%20%E2%80%A2%20Control%20Engineer&descSize=18&descAlignY=60&animation=fadeIn" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4C1D95,50:7C3AED,100:A78BFA&height=220&section=header&text=Parisa%20Ghorbani&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Head%20of%20AI%20Medical Imaging%20%E2%80%A2%20Middleware%20Manager%20%E2%80%A2%20Control%20Engineer&descSize=18&descAlignY=60&animation=fadeIn" alt="header" />
 </a>
 
 <p align="center">
   <a href="https://github.com/ParisaGhorbani">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=7C3AED&center=true&vCenter=true&width=820&lines=Bridging+Medical+AI+Research+%26+Enterprise+FinTech;Head+of+AI+%40+ARAS+Lab+%7C+Middleware+Mgr+%40+Novin;Computer+Vision+%E2%80%A2+Observability+%E2%80%A2+Surgical+AI;Empowering+Healthcare+%26+Finance+with+Scalable+Systems" alt="typing" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=7C3AED&center=true&vCenter=true&width=820&lines=Bridging+Medical+AI+Research+%26+Enterprise+FinTech;Head+of+AI+%40+ARAS+Lab+%7C+Middleware+Mgr+%40+Novin;Computer+Vision+%E2%80%A2+Surgical+AI;Empowering+Healthcare+%26+Finance+with+Scalable+Systems" alt="typing" />
   </a>
 </p>
 
